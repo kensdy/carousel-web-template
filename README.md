@@ -4,7 +4,9 @@ Este é um simples template de carrossel desenvolvido em HTML, CSS e JavaScript.
 
 ## Demonstração
 
-Incluímos um exemplo de uso deste carrossel com 4 painéis contendo texto. Você pode ver o carrossel em ação [aqui](link-para-a-pagina-com-o-carrossel).
+Assista ao vídeo de demonstração do carrossel no YouTube:
+
+[![Demonstração do Carrossel](https://img.youtube.com/vi/egmDWps5Vo4/0.jpg)](https://www.youtube.com/watch?v=egmDWps5Vo4)
 
 ## Como Usar
 
@@ -26,4 +28,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a Licença GNU 3.0 - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
