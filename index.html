@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Carrossel</title>
+</head>
+<body>
+    <div class="carousel-container">
+        <div class="carousel" id="carousel">
+            <div class="panel">
+                <h1>Painel 1</h1>
+            </div>
+            <div class="panel">
+                <h1>Painel 2</h1>
+            </div>
+            <div class="panel">
+                <h1>Painel 3</h1>
+            </div>
+            <div class="panel">
+                <h1>Painel 4</h1>
+            </div>
+            
+            <!-- Adicione os outros três painéis semelhantes aqui -->
+        </div>
+        <button class="prev" onclick="changePanel(-1)">&#8249;</button>
+        <button class="next" onclick="changePanel(1)">&#8250;</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
