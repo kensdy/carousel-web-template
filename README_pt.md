@@ -2,6 +2,7 @@
 
 Este é um simples template de carrossel desenvolvido em HTML, CSS e JavaScript. O template oferece uma maneira fácil de criar um carrossel de imagens ou conteúdo para exibição em uma página web.
 
+
 ## Demonstração
 
 Assista ao vídeo de demonstração do carrossel no YouTube:
