@@ -1,6 +1,6 @@
 # carousel-web-template
 
-Este é um simples template de carrossel desenvolvido em HTML, CSS e JavaScript. O template oferece uma maneira fácil de criar um carrossel de imagens ou conteúdo para exibição em uma página web.
+Um template web leve e responsivo apresentando um simples carrossel criado com HTML, CSS e JavaScript. Este template permite uma fácil integração de um carrossel de imagens ou conteúdo em sua página web. Personalize o número de painéis, seu conteúdo e o estilo geral para se adequar perfeitamente às necessidades do seu projeto.
 
 Português | [English](README.md)
 
