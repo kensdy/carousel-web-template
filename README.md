@@ -1,6 +1,6 @@
 # carousel-web-template
 
-This is a simple carousel template developed in HTML, CSS, and JavaScript. The template provides an easy way to create a carousel of images or content for display on a web page.
+A lightweight and responsive web template featuring a simple carousel created with HTML, CSS, and JavaScript. This template allows for easy integration of an image or content carousel into your web page. Customize the number of panels, their content, and the overall style to seamlessly match your project's needs.
 
 [Português](README_pt.md) | English
 
