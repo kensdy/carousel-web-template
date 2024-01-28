@@ -2,6 +2,10 @@
 
 Este é um simples template de carrossel desenvolvido em HTML, CSS e JavaScript. O template oferece uma maneira fácil de criar um carrossel de imagens ou conteúdo para exibição em uma página web.
 
+Português | ´[English](README.md)
+
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdycarousel&label=Views&color=brightgreen)](https://github.com/kensdy/carousel-web-template)
+
 
 ## Demonstração
 
